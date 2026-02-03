@@ -4,7 +4,7 @@
   "title": "An Intelligence.AI product entry",
   "type": "object",
   "required": ["title", "description", "price", "currency", "url", "image_url", "timestamp", "sku" ],
-  "addtionalProperties": false,
+  "additionalProperties": false,
   "properties": {
      "title": { "type": "string" },
      "description": { "type": "string" },
